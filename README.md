@@ -17,4 +17,5 @@ Example:
  ```
  
  The minimum permission are the following:
+
 ![image](https://user-images.githubusercontent.com/25728713/140409283-4a7d8d52-1aac-4c51-9f39-ab4820793983.png)
