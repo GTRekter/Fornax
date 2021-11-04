@@ -105,8 +105,8 @@ namespace AzureDevOpsReportGenerator
             Console.WriteLine("   o                 Absolute path where to save the report");
             Console.WriteLine("   h                 Print menu");
             Console.WriteLine("Example:");
-            Console.WriteLine("   AzureDevOpsReportGenerator.exe -b http://windev2106eval:8888/tfs/ -c DefaultCollection -p j5onehl6qikbqmznesanwu4invyuikrpiqtyqtahljdjlldainnq");
-            Console.WriteLine("   AzureDevOpsReportGenerator.exe -b https://dev.azure.com/ -c IvanPorta -p rbqq74wqdeexsylqvetmuoiqayaqdbtimvcmb3wjsftiamk2haxq -f 6/14/2018 -t 6/14/2020");
+            Console.WriteLine("   AzureDevOpsReportGenerator.exe -b http://windev2106eval:8888/tfs/ -c DefaultCollection -p ***********************");
+            Console.WriteLine("   AzureDevOpsReportGenerator.exe -b https://dev.azure.com/ -c IvanPorta -p ******************* -f 6/14/2018 -t 6/14/2020");
         }
         private static void SaveToCsv<T>(List<T> reportData, string path)
         {
